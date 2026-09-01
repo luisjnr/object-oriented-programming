@@ -1,15 +1,55 @@
 public class Caneta {
-	public String modelo, cor;
+	private String modelo, cor;
 	private double ponta;
-	protected int carga;
+	private int carga;
 	private boolean tampa;
 	
 	public Caneta(String modelo, String cor, double ponta, int carga){
+		setModelo(modelo);
+		setCor(cor);
+		setPonta(ponta);
+		setCarga(carga);
+		tampar();
+	}
+	
+	public String getModelo(){
+		return this.modelo;
+	}
+	
+	public void setModelo(String modelo){
 		this.modelo = modelo;
+	}
+	
+	public String getCor(){
+		return this.cor;
+	}
+	
+	public void setCor(String cor){
 		this.cor = cor;
+	}
+	
+	public double getPonta(){
+		return this.ponta;	
+	}
+	
+	public void setPonta(double ponta){
 		this.ponta = ponta;
+	}
+	
+	public int getCarga(){
+		return this.carga;
+	}
+	
+	public void setCarga(int carga){
 		this.carga = carga;
-		this.tampa = true;
+	}
+	
+	public boolean getTampa(){
+		return this.tampa;
+	}
+	
+	public void setTampa(boolean tampa){
+		this.tampa = tampa;
 	}
 	
 	public void status(){
@@ -26,11 +66,11 @@ public class Caneta {
 	}
 	
 	protected void tampar(){
-		this.tampa = true;
+		setTampa(true);
 	}
 
 	protected void destampar(){
-		this.tampa = false;
+		setTampa(false);
 	}
 	
 	
