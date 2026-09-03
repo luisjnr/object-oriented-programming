@@ -1,6 +1,6 @@
 public class Paciente {
 	String nome, sexo;
-	Double peso = 0.0, altura = 0.0;
+	Double peso, altura;
 	
 	public Paciente(String nome, String sexo, Double peso, Double altura){
 		this.nome = nome;

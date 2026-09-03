@@ -1,6 +1,6 @@
 public class Funcionario {
 	String nome;
-	Double horasTrabalhadas = 0.0, valorDaHora = 0.0;
+	Double horasTrabalhadas, valorDaHora;
 		
 	public Funcionario(String nome, Double horasTrabalhadas, Double valorDaHora){
 		this.nome = nome;
