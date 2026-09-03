@@ -1,4 +1,4 @@
-public class Canetas {
+public class Caixinha {
 
     public static void main(String[] args) {
 		Caneta can = new Caneta("Bic", "Azul", 0.5, 1, true);
