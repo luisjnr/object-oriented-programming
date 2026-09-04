@@ -1,94 +1,39 @@
-# ☕ Object-Oriented Programming in Java
+# Estrutura de Dados I
 
-Repository dedicated to my studies, exercises, and practical projects developed during the **Object-Oriented Programming (OOP)** course.
+Repositório destinado às atividades, exercícios e materiais desenvolvidos durante a disciplina de **Estrutura de Dados I**.
 
-The main goal of this repository is to document my learning journey with **Java** and practice the fundamental concepts of object-oriented programming through practical implementations.
+## Conteúdo
 
----
+### Introductory exercises
 
-## 📚 Topics
+Exercícios introdutórios para praticar os fundamentos da linguagem C e conceitos básicos utilizados ao longo da disciplina.
 
-Throughout the course, this repository covers concepts such as:
+### Structs
 
-* ☕ Java Fundamentals
-* 🧱 Classes and Objects
-* 🔹 Attributes and Methods
-* 🏗️ Constructors
-* 🔒 Encapsulation
-* 🧬 Inheritance
-* 🔄 Polymorphism
-* 🎭 Abstraction
-* 🔌 Interfaces
-* ⚠️ Exception Handling
-* 📦 Collections
-* 📁 File Handling
-* 🏛️ Object-Oriented Design
-* 🧩 Design Patterns
-* And other OOP concepts explored throughout the course
+Exercícios e implementações utilizando `struct` em C, explorando a criação e manipulação de estruturas de dados.
 
----
+### Exams
 
-## 📂 Repository Structure
+Arquivos e exercícios relacionados às provas realizadas durante a disciplina.
 
-The repository is organized according to the topics and activities developed during the course:
+## Tecnologias
+
+* **C**
+* **Git**
+* **GitHub**
+
+## Organização
 
 ```text
-object-oriented-programming/
-│
-├── Builders/
-├── Classes and objects/
-├── Curso em video/
-├── Encapsulation/
+ED1/
 ├── Introductory exercises/
-│
-└── README.md
+├── Structs/
+└── Exams/
 ```
 
-Each directory contains exercises and implementations related to the respective topic.
+## Sobre
 
----
+Repositório acadêmico desenvolvido durante a graduação em **Sistemas de Informação**.
 
-## 🛠️ Technologies
-
-| Technology | Purpose                           |
-| ---------- | --------------------------------- |
-| ☕ Java     | Programming language              |
-| 🔧 Git     | Version control                   |
-| 🐙 GitHub  | Repository and project management |
-
----
-
-## 🎯 Goals
-
-This repository is part of my academic and personal development as a software developer.
-
-Through these exercises and projects, I aim to:
-
-* Strengthen my knowledge of Java;
-* Understand object-oriented programming principles;
-* Improve code organization and readability;
-* Practice software design concepts;
-* Develop problem-solving skills;
-* Build a solid foundation for backend development.
-
----
-
-## 📈 Progress
-
-**Status:** 🟢 In Progress
-
-This repository will continue to be updated as new subjects, exercises, and projects are developed throughout the course.
-
----
-
-## 👨‍💻 Author
-
-**Luis Carlos**
-
-Information Systems student with an interest in **Backend Development**, currently studying Java, object-oriented programming, databases, and software development.
-
----
-
-## 📌 Note
-
-This repository is primarily intended for **learning and academic purposes**, serving as a record of my progress and practical experience with Object-Oriented Programming in Java.
+**Disciplina:** Estrutura de Dados I
+**Linguagem:** C
