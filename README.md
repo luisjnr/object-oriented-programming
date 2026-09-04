@@ -1,51 +1,94 @@
 # ☕ Object-Oriented Programming in Java
 
-Repository dedicated to my studies and practical activities in **Object-Oriented Programming (OOP)** using Java.
+Repository dedicated to my studies, exercises, and practical projects developed during the **Object-Oriented Programming (OOP)** course.
 
-This repository will contain exercises, assignments, and projects developed throughout the course, documenting my progress and practical experience with object-oriented programming.
+The main goal of this repository is to document my learning journey with **Java** and practice the fundamental concepts of object-oriented programming through practical implementations.
+
+---
 
 ## 📚 Topics
 
-* Java fundamentals
-* Classes and Objects
-* Attributes and Methods
-* Constructors
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Interfaces
-* Exception Handling
-* Collections
-* File Handling
-* Object-Oriented Design
-* And more as the course progresses
+Throughout the course, this repository covers concepts such as:
 
-## 🛠️ Technologies
+* ☕ Java Fundamentals
+* 🧱 Classes and Objects
+* 🔹 Attributes and Methods
+* 🏗️ Constructors
+* 🔒 Encapsulation
+* 🧬 Inheritance
+* 🔄 Polymorphism
+* 🎭 Abstraction
+* 🔌 Interfaces
+* ⚠️ Exception Handling
+* 📦 Collections
+* 📁 File Handling
+* 🏛️ Object-Oriented Design
+* 🧩 Design Patterns
+* And other OOP concepts explored throughout the course
 
-* Java
-* Git
-* GitHub
+---
 
 ## 📂 Repository Structure
 
-The repository is organized into different activities and projects developed throughout the course.
+The repository is organized according to the topics and activities developed during the course:
 
 ```text
-📦 object-oriented-programming
- ┣ 📂 activities
- ┣ 📂 projects
- ┗ 📜 README.md
+object-oriented-programming/
+│
+├── Builders/
+├── Classes and objects/
+├── Curso em video/
+├── Encapsulation/
+├── Introductory exercises/
+│
+└── README.md
 ```
 
-## 🎯 Purpose
+Each directory contains exercises and implementations related to the respective topic.
 
-The main goal of this repository is to **practice Java and strengthen my understanding of object-oriented programming concepts** through practical exercises and projects.
+---
 
-It will be continuously updated as new activities and projects are developed during the course.
+## 🛠️ Technologies
 
-## 🚧 Status
+| Technology | Purpose                           |
+| ---------- | --------------------------------- |
+| ☕ Java     | Programming language              |
+| 🔧 Git     | Version control                   |
+| 🐙 GitHub  | Repository and project management |
 
-🟢 **In Progress**
+---
 
-New activities and projects will be added throughout the course.
+## 🎯 Goals
+
+This repository is part of my academic and personal development as a software developer.
+
+Through these exercises and projects, I aim to:
+
+* Strengthen my knowledge of Java;
+* Understand object-oriented programming principles;
+* Improve code organization and readability;
+* Practice software design concepts;
+* Develop problem-solving skills;
+* Build a solid foundation for backend development.
+
+---
+
+## 📈 Progress
+
+**Status:** 🟢 In Progress
+
+This repository will continue to be updated as new subjects, exercises, and projects are developed throughout the course.
+
+---
+
+## 👨‍💻 Author
+
+**Luis Carlos**
+
+Information Systems student with an interest in **Backend Development**, currently studying Java, object-oriented programming, databases, and software development.
+
+---
+
+## 📌 Note
+
+This repository is primarily intended for **learning and academic purposes**, serving as a record of my progress and practical experience with Object-Oriented Programming in Java.
