@@ -1,39 +1,51 @@
-# Estrutura de Dados I
+# Object-Oriented Programming
 
-Repositório destinado às atividades, exercícios e materiais desenvolvidos durante a disciplina de **Estrutura de Dados I**.
+Repository dedicated to the study and practice of **Object-Oriented Programming (OOP)** using Java.
 
-## Conteúdo
+It contains exercises and implementations developed throughout the course, covering fundamental object-oriented concepts and Java programming.
+
+## Content
 
 ### Introductory exercises
 
-Exercícios introdutórios para praticar os fundamentos da linguagem C e conceitos básicos utilizados ao longo da disciplina.
+Exercises focused on Java fundamentals and basic programming concepts.
 
-### Structs
+### Classes and objects
 
-Exercícios e implementações utilizando `struct` em C, explorando a criação e manipulação de estruturas de dados.
+Exercises exploring the creation and manipulation of classes and objects in Java.
 
-### Exams
+### Encapsulation
 
-Arquivos e exercícios relacionados às provas realizadas durante a disciplina.
+Implementations focused on encapsulation, access modifiers, attributes, methods, and data protection.
 
-## Tecnologias
+### Builders
 
-* **C**
+Exercises and implementations related to the Builder pattern and object construction.
+
+### Curso em video
+
+Exercises and examples developed while following the **Curso em Vídeo** Java classes.
+
+## Technologies
+
+* **Java**
 * **Git**
 * **GitHub**
 
-## Organização
+## Organization
 
 ```text
-ED1/
+object-oriented-programming/
+├── Builders/
+├── Classes and objects/
+├── Curso em video/
+├── Encapsulation/
 ├── Introductory exercises/
-├── Structs/
-└── Exams/
+└── README.md
 ```
 
-## Sobre
+## About
 
-Repositório acadêmico desenvolvido durante a graduação em **Sistemas de Informação**.
+Academic repository developed during the **Object-Oriented Programming** course in the Information Systems degree.
 
-**Disciplina:** Estrutura de Dados I
-**Linguagem:** C
+**Language:** Java
