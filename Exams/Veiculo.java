@@ -37,10 +37,10 @@ public class Veiculo {
 	public double calcularLocacao(int dias, int kmRodados, boolean seguro){
 		this.quilometragem += (dias*kmRodados);
 		if(this.tipo.equalsIgnoreCase("economico"))
-			return (((100*dias) + (50*dias)) + ((kmRodados*dias) * 0.10));
+			return (((100*dias) + (dias * (seguro ? 50 : 0))) + ((kmRodados*dias) * 0.10));
 		else if(this.tipo.equalsIgnoreCase("suv"))	
-			return (((150*dias) + (50*dias)) + ((kmRodados*dias) * 0.10));
-		return (((250*dias) + (50*dias)) + ((kmRodados*dias) * 0.10));
+			return (((150*dias) + (dias * (seguro ? 50 : 0))) + ((kmRodados*dias) * 0.10));
+		return (((250*dias) + (dias * (seguro ? 50 : 0))) + ((kmRodados*dias) * 0.10));
 	}
 
 	public String exibirDetalhes(){
