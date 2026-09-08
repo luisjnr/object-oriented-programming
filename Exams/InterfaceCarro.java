@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Interface {
+public class InterfaceCarro {
 	
 	private int selecao(){
 		System.out.println("1 - Carro Econômico\n" + 

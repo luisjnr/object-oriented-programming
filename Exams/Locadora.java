@@ -7,7 +7,7 @@ public class Locadora {
 		car[0] = new Veiculo("J3KZ-4E95", "FIAT UNO", "ECONOMICO");
 		car[1] = new Veiculo("CJF8-FJ87", "HILUX", "SUV");
 		car[2] = new Veiculo("L4KW-FJK4", "MUSTANG", "LUXO");
-		Interface menu = new Interface();
+		InterfaceCarro menu = new InterfaceCarro();
 		menu.menuCarro(car);	
     }
 }
