@@ -1,6 +1,6 @@
 # Object-Oriented Programming
 
-Repository dedicated to the study and practice of **Object-Oriented Programming (OOP)** using Java.
+Repository dedicated to the study and practice of Object-Oriented Programming (OOP) using Java.
 
 It contains exercises and implementations developed throughout the course, covering fundamental object-oriented concepts and Java programming.
 
@@ -24,28 +24,33 @@ Exercises and implementations related to the Builder pattern and object construc
 
 ### Curso em video
 
-Exercises and examples developed while following the **Curso em Vídeo** Java classes.
+Exercises and examples developed while following the Curso em Vídeo Java classes.
+
+### Exams
+
+Exercises and implementations developed for exams throughout the course.
 
 ## Technologies
 
-* **Java**
-* **Git**
-* **GitHub**
+- Java
+- Git
+- GitHub
 
 ## Organization
 
-```text
-object-oriented-programming/
-├── Builders/
-├── Classes and objects/
-├── Curso em video/
-├── Encapsulation/
-├── Introductory exercises/
-└── README.md
-```
+    Object-Oriented-Programming/
+    ├── Builders/
+    ├── Classes and objects/
+    ├── Curso em video/
+    ├── Encapsulation/
+    ├── Exams/
+    ├── Introductory exercises/
+    ├── Overload/
+    ├── .gitignore
+    └── README.md
 
 ## About
 
-Academic repository developed during the **Object-Oriented Programming** course in the Information Systems degree.
+Academic repository developed during the Object-Oriented Programming course in the Information Systems degree.
 
-**Language:** Java
+Language: Java
