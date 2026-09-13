@@ -36,14 +36,15 @@ public class Onibus {
 		return false;
 	}
 	
-	public boolean desembarcarPasssageiro(){
+	public boolean desembarcarPassageiro(){
 		if(this.passageirosAtuais > 0){
 			this.passageirosAtuais -= 1;
 			return true;
 		}
 		return false;
 	}
-	public boolean desembarcarPasssageiro(int quantidade){
+	
+	public boolean desembarcarPassageiro(int quantidade){
 		if(this.passageirosAtuais >= quantidade){
 			this.passageirosAtuais -= quantidade;
 			return true;
